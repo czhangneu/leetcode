@@ -1,0 +1,1 @@
+# heapify k values, extract the min value and append it to the big sorted sequence
